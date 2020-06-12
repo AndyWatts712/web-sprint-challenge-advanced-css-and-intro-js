@@ -147,7 +147,7 @@ button:hover{
         width: 100%;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 40vh;
+        height: 30vh;
     }
     
     .title-container hr{
@@ -159,7 +159,12 @@ button:hover{
     }
 
     .artist {
+        width: 80%;
+        
+            }
+    .artist img {
         width: 100%;
         height: auto;
-            }
-}
+    }
+            
+        }
